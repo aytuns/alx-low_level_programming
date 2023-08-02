@@ -44,5 +44,3 @@ int _sqrt_recursion(int n)
 {
 	return (the_sqrt_recursion(n, 0));
 }
-
-
